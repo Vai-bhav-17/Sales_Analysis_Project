@@ -4,3 +4,5 @@ Diwali Sales Analysis Project using Python and created an interactive sales dash
 Used pandas,numpy and jupyter notebook for data transformation and data cleaning.
 
 Used matplotlib and seaborn for data visualisations.
+
+Used Power BI desktop for the sales dashboard
